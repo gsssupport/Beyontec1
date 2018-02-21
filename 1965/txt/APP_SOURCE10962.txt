@@ -1,0 +1,1 @@
+[{ "key": "165~WFT_Beyontec1_P_1304_1518427383274_0", "target" : "QRY_INFO", "content" :"{ \"query\" : \" DELETE FROM QRY_INFO WHERE WFTPA_ID=? AND APP_ID=?\", \"params\" : [$DQ$WFT_Beyontec1_P_1304_1518427383274_0$DQ$, $DQ$165$DQ$] }", "qry_type" : "D"  }]
